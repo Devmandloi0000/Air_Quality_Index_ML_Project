@@ -7,5 +7,6 @@ scikit-learn
 scipy
 pymongo
 mlflow
+lxml
 
 -e .
